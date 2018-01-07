@@ -1,0 +1,15 @@
+{
+  "name": "gol",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "nerdfiles",
+  "license": "WTFPL",
+  "dependencies": {
+    "color-generator": "^0.1.0",
+    "lodash": "^4.17.4",
+    "random-js": "^1.0.8"
+  }
+}
